@@ -8,6 +8,6 @@ public class Main {
     }
 
     public  void callll(){
-        System.out.println("oancun");
+    
     }
 }
