@@ -8,6 +8,8 @@ public class Main {
     }
 
     public  void callll(){
+        System.out.println("1111分支");
+        System.out.println("222分支");
     
     }
 }
